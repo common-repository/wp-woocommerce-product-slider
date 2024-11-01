@@ -1,0 +1,1681 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Xg Product Slider\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-09 14:06+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: inc/shortcode/class-xgp-shortcode.php:1296
+msgid " Add To Cart"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:290
+msgid " Enable / disable for autoplay"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:312
+msgid " Enable / disable pause on hover"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:330
+#: admin-modules/class-xgp-metabox.php:339
+msgid " Enable / disable slider loop"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:321
+msgid " Enable / disable slider navigation"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:360
+msgid " Enable / disable slider pagination"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:31
+msgid " My wishlist on "
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:348
+msgid " select animation for slider in"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:354
+msgid " select animation for slider out"
+msgstr ""
+
+#: admin-modules/partials/xgp-help-display.php:30
+msgid " Settings Updated Successfully."
+msgstr ""
+
+#: admin-modules/class-xgp-admin-modules.php:66
+msgid "Add New"
+msgstr ""
+
+#: admin-modules/class-xgp-admin-modules.php:65
+msgid "Add New Slider"
+msgstr ""
+
+#: inc/shortcode/class-xgp-shortcode.php:1866
+msgid "Add To Cart"
+msgstr ""
+
+#: templates/wishlist-view.php:18 inc/shortcode/class-xgp-shortcode.php:64
+#: inc/shortcode/class-xgp-shortcode.php:122
+msgid "Add to Cart"
+msgstr ""
+
+#: inc/shortcode/class-xgp-shortcode.php:1496
+#: inc/shortcode/class-xgp-shortcode.php:1538
+#: inc/shortcode/class-xgp-shortcode.php:1604
+msgid "Add to cart"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:255
+msgid "Add To Cart Button  Hover  Color"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:248
+msgid "Add To Cart Button  Hover Background Color"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:241
+msgid "Add To Cart Button Background Color"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:234
+msgid "Add To Cart Button Color"
+msgstr ""
+
+#: inc/shortcode/class-xgp-shortcode.php:1498
+msgid "add to wishlist"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:67
+msgid "Added In Wishlist"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:63
+msgid "Added In Wishlist Text"
+msgstr ""
+
+#: templates/wishlist-view.php:43 inc/shortcode/class-xgp-shortcode.php:91
+#: inc/shortcode/class-xgp-shortcode.php:149
+msgid "Added On "
+msgstr ""
+
+#: inc/shortcode/class-xgp-shortcode.php:1403
+msgid "Added To Cart"
+msgstr ""
+
+#: inc/class-xgp-product-wishlist.php:226
+msgid "Added To Cart Success And Removed From Wishlist"
+msgstr ""
+
+#: admin-modules/class-xgp-admin-modules.php:63
+msgid "All Sliders"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:56
+msgid "Already In Wishlist Text"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:346
+msgid "Animate In"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:352
+msgid "Animate Out"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:273
+msgid "Ascending"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:288
+msgid "Auto play"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:298
+msgid "Autoplay Speed"
+msgstr ""
+
+#: admin-modules/partials/xgp-quick-view-display.php:10
+msgid "Available Quick View Settings For Slider"
+msgstr ""
+
+#: admin-modules/partials/xgp-help-display.php:27
+msgid "Available Upsells Settings For Slider"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:9
+msgid "Available Wishlist Settings For Slider"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:243
+msgid "Badge / Ribbon "
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:443
+msgid "Badge Background Color"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:437
+msgid "Badge Color"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:212
+msgid "Best Selling"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:63
+msgid "bounce"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:72
+msgid "bounceIn"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:73
+msgid "bounceInDown"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:74
+msgid "bounceInLeft"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:75
+msgid "bounceInRight"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:76
+msgid "bounceInUp"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:77
+msgid "bounceOut"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:78
+msgid "bounceOutDown"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:79
+msgid "bounceOutLeft"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:80
+msgid "bounceOutRight"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:81
+msgid "bounceOutUp"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:49
+msgid "Browse Wishlist Text"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:503
+msgid "Button  Background Color"
+msgstr ""
+
+#: admin-modules/partials/xgp-quick-view-display.php:138
+msgid "Button Background Color"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:491
+#: admin-modules/partials/xgp-quick-view-display.php:131
+msgid "Button Color"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:554
+#: admin-modules/partials/xgp-quick-view-display.php:60
+msgid "Button Font Size"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:509
+#: admin-modules/partials/xgp-quick-view-display.php:153
+msgid "Button Hover Background Color"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:497
+#: admin-modules/partials/xgp-quick-view-display.php:145
+msgid "Button Hover Color"
+msgstr ""
+
+#: inc/shortcode/class-xgp-shortcode.php:1807
+msgid "Buy Now"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:167
+msgid "Category Slider"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:337
+msgid "Center Mode"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:445
+msgid "Change badge/ribbon background color from here"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:439
+msgid "Change badge/ribbon color from here"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:505
+msgid "Change button background color from here"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:493
+msgid "Change button color from here"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:556
+msgid "Change button font size from here"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:511
+msgid "Change button hover background color from here"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:499
+msgid "Change button hover color from here"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:433
+msgid "Change discount price color from here"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:463
+msgid "Change icon background color from here"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:469
+msgid "Change icon border color from here"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:457
+msgid "Change icon color from here"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:550
+msgid "Change icon font size from here"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:481
+msgid "Change icon hover background color from here"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:487
+msgid "Change icon hover border color from here"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:475
+msgid "Change icon hover color from here"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:427
+msgid "Change price color from here"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:538
+msgid "Change price font size from here"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:451
+msgid "Change rating color from here"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:544
+msgid "Change rating font size from here"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:526
+msgid "Change ribbon font size from here"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:415
+msgid "Change title color from here"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:532
+msgid "Change title font size from here"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:421
+msgid "Change title hover color from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-quick-view-display.php:175
+msgid "Close Button Background Color"
+msgstr ""
+
+#: admin-modules/partials/xgp-quick-view-display.php:182
+msgid "Close Button Color"
+msgstr ""
+
+#: admin-modules/partials/xgp-quick-view-display.php:189
+msgid "Close Button Hover Background Color"
+msgstr ""
+
+#: admin-modules/partials/xgp-quick-view-display.php:196
+msgid "Close Button Hover Color"
+msgstr ""
+
+#: admin-modules/partials/xgp-help-display.php:80
+msgid "Contact Support"
+msgstr ""
+
+#: admin-modules/class-xgp-admin-modules.php:189
+#: admin-modules/class-xgp-metabox.php:263
+msgid "Date"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:27
+msgid "Default Wishlist Title"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:274
+msgid "Descending"
+msgstr ""
+
+#: admin-modules/partials/xgp-quick-view-display.php:124
+msgid "Description Color"
+msgstr ""
+
+#: admin-modules/partials/xgp-quick-view-display.php:49
+msgid "Description Font Size"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:248
+#: admin-modules/class-xgp-metabox.php:293
+#: admin-modules/class-xgp-metabox.php:315
+#: admin-modules/class-xgp-metabox.php:324
+#: admin-modules/class-xgp-metabox.php:333
+#: admin-modules/class-xgp-metabox.php:342
+#: admin-modules/class-xgp-metabox.php:363
+#: admin-modules/partials/xgp-help-display.php:49
+msgid "Disable"
+msgstr ""
+
+#: admin-modules/partials/xgp-help-display.php:45
+msgid "Disable Default Upsells Show"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:431
+#: admin-modules/partials/xgp-quick-view-display.php:117
+msgid "Discount Price Color"
+msgstr ""
+
+#: admin-modules/class-xgp-admin-modules.php:67
+msgid "Edit Slider"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:247
+#: admin-modules/class-xgp-metabox.php:292
+#: admin-modules/class-xgp-metabox.php:314
+#: admin-modules/class-xgp-metabox.php:323
+#: admin-modules/class-xgp-metabox.php:332
+#: admin-modules/class-xgp-metabox.php:341
+#: admin-modules/class-xgp-metabox.php:362
+#: admin-modules/partials/xgp-help-display.php:50
+msgid "Enable"
+msgstr ""
+
+#: admin-modules/partials/xgp-help-display.php:46
+msgid "enable / disable show default upsells product in single page"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:245
+msgid "enable disable badge/ribbon for slider"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:300
+msgid "Enter autoplay speed . cunted as miliseconds"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:252
+msgid "Enter Badge/Ribbon Text"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:254
+msgid "Enter badge/ribbon text to show as a badge in each item of slider"
+msgstr ""
+
+#: inc/wpbakery/class-xgp-wpbakery-addon.php:45
+msgid "Enter how many item you want in Product slider . enter -1 for unlimited"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:239
+msgid "Enter how many item you want it slider . enter -1 for unlimited product"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:306
+msgid "Enter margin for slider. enter only number don't need to enter px "
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:82
+msgid "fadeIn"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:83
+msgid "fadeInDown"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:84
+msgid "fadeInDownBig"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:85
+msgid "fadeInLeft"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:86
+msgid "fadeInLeftBig"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:87
+msgid "fadeInRight"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:88
+msgid "fadeInRightBig"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:89
+msgid "fadeInUp"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:90
+msgid "fadeInUpBig"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:91
+msgid "fadeOut"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:92
+msgid "fadeOutDown"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:93
+msgid "fadeOutDownBig"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:94
+msgid "fadeOutLeft"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:95
+msgid "fadeOutLeftBig"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:96
+msgid "fadeOutRight"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:97
+msgid "fadeOutRightBig"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:98
+msgid "fadeOutUp"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:99
+msgid "fadeOutUpBig"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:211
+msgid "Featured"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:64
+msgid "flash"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:100
+msgid "flip"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:101
+msgid "flipInX"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:102
+msgid "flipInY"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:103
+msgid "flipOutX"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:104
+msgid "flipOutY"
+msgstr ""
+
+#: templates/wishlist-view.php:22 inc/shortcode/class-xgp-shortcode.php:68
+#: inc/shortcode/class-xgp-shortcode.php:126
+#: inc/shortcode/class-xgp-shortcode.php:1194
+#: inc/shortcode/class-xgp-shortcode.php:1242
+#: inc/shortcode/class-xgp-shortcode.php:1284
+#: inc/shortcode/class-xgp-shortcode.php:1329
+#: inc/shortcode/class-xgp-shortcode.php:1363
+#: inc/shortcode/class-xgp-shortcode.php:1411
+#: inc/shortcode/class-xgp-shortcode.php:1447
+#: inc/shortcode/class-xgp-shortcode.php:1507
+#: inc/shortcode/class-xgp-shortcode.php:1552
+#: inc/shortcode/class-xgp-shortcode.php:1592
+#: inc/shortcode/class-xgp-shortcode.php:1644
+#: inc/shortcode/class-xgp-shortcode.php:1684
+#: inc/shortcode/class-xgp-shortcode.php:1750
+#: inc/shortcode/class-xgp-shortcode.php:1793
+#: inc/shortcode/class-xgp-shortcode.php:1852
+msgid "Free!"
+msgstr ""
+
+#: inc/wpbakery/class-xgp-wpbakery-addon.php:46
+msgid "General"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:143
+#: admin-modules/partials/xgp-wishlist-display.php:17
+msgid "General Settings"
+msgstr ""
+
+#: admin-modules/partials/xgp-help-display.php:37
+msgid "Help"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:135
+msgid "hinge"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://codecanyon.net/user/xgenious/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://codecanyon.net/user/xgenious/portfolio"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:461
+msgid "Icon Background Color"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:467
+msgid "Icon Border Color"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:455
+msgid "Icon Color"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:548
+msgid "Icon Font Size"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:479
+msgid "Icon Hover Background Color"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:485
+msgid "Icon Hover Border Color"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:473
+msgid "Icon Hover Color"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:262
+msgid "ID"
+msgstr ""
+
+#: admin-modules/partials/xgp-help-display.php:103
+msgid ""
+"If you want to see live demo of xg product slider.click below and see all "
+"live demo ."
+msgstr ""
+
+#: templates/wishlist-view.php:17 inc/shortcode/class-xgp-shortcode.php:63
+#: inc/shortcode/class-xgp-shortcode.php:121
+msgid "In Stock"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:136
+msgid "jackInTheBox"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:71
+msgid "jello"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:210
+msgid "Latest"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:105
+msgid "lightSpeedIn"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:106
+msgid "lightSpeedOut"
+msgstr ""
+
+#: admin-modules/partials/xgp-help-display.php:102
+msgid "Live Demo ?"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:328
+msgid "Loop"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:304
+msgid "Margin"
+msgstr ""
+
+#: admin-modules/partials/xgp-quick-view-display.php:161
+msgid "Meta Color"
+msgstr ""
+
+#: admin-modules/partials/xgp-quick-view-display.php:71
+msgid "Meta Font Size"
+msgstr ""
+
+#: admin-modules/partials/xgp-quick-view-display.php:168
+msgid "Meta Hover Color"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:319
+msgid "Navigation"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:385
+msgid "Navigation  Hover Color"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:367
+msgid "Navigation Background Color"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:373
+msgid "Navigation Background Hover Color"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:379
+msgid "Navigation Color"
+msgstr ""
+
+#: admin-modules/partials/xgp-help-display.php:78
+msgid "Need Any Help ?"
+msgstr ""
+
+#: admin-modules/class-xgp-admin-modules.php:70
+msgid "Not Found"
+msgstr ""
+
+#: admin-modules/class-xgp-admin-modules.php:71
+msgid "Not found in Trash"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:219
+msgid "Number Of Column In Slider In Desktop"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:231
+msgid "Number Of Column In Slider In Mobile"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:225
+msgid "Number Of Column In Slider In Tablet"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:215
+msgid "On Sale"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:269
+msgid "Order"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:258
+msgid "Order By"
+msgstr ""
+
+#: templates/wishlist-view.php:14 inc/shortcode/class-xgp-shortcode.php:60
+#: inc/shortcode/class-xgp-shortcode.php:118
+msgid "Out of Stock"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:177
+msgid "Page Title Color"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:78
+msgid "Page Title Font Size"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:358
+msgid "Pagination Dots"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:397
+msgid "Pagination Dots Active Color"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:391
+msgid "Pagination Dots Color"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:310
+msgid "Pause On Hover"
+msgstr ""
+
+#: xg-product.php:146
+msgid ""
+"Please Install or active WooCommerce plugin this plugin in depend on "
+"WooCommerce plugin."
+msgstr ""
+
+#: inc/class-xgp-product-wishlist.php:46
+msgid "Please Login To Create A wishlist"
+msgstr ""
+
+#: admin-modules/class-xgp-admin-modules.php:60
+msgctxt "Post Type General Name"
+msgid "Product Slider"
+msgstr ""
+
+#: admin-modules/class-xgp-admin-modules.php:61
+msgctxt "Post Type Singular Name"
+msgid "Slider"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:425
+#: admin-modules/partials/xgp-quick-view-display.php:109
+msgid "Price Color"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:536
+#: admin-modules/partials/xgp-quick-view-display.php:38
+msgid "Price Font Size"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:226
+msgid "Product Added Date In Wishlist Color"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:60
+msgid "Product Already In Wishlist"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:148
+msgid "Product Button Font Size"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:138
+msgid "Product Date Added Font Size"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:205
+msgid "Product Discount Price Color"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:108
+msgid "Product Image Width"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:212
+msgid "Product In Stock Color"
+msgstr ""
+
+#: inc/shortcode/class-xgp-shortcode.php:36
+msgid "Product Name"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:219
+msgid "Product Out Of Stock Color"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:198
+msgid "Product Price Color"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:118
+msgid "Product Price Font Size"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:168 inc/helpers/class-xgp-helpers.php:26
+msgid "Product Slider"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:128
+msgid "Product Stock Font Size"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:191
+msgid "Product Title Color"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:98
+msgid "Product Title Font Size"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:206
+msgid "Product Type"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:65
+msgid "pulse"
+msgstr ""
+
+#: admin-modules/class-xgp-admin-modules.php:46
+msgid "Quick View"
+msgstr ""
+
+#: admin-modules/class-xgp-admin-modules.php:46
+msgid "Quick View Settings"
+msgstr ""
+
+#: admin-modules/partials/xgp-quick-view-display.php:13
+msgid "Quick View Settings Updated Successfully."
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:265
+msgid "Random"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:449
+msgid "Rating Color"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:542
+msgid "Rating Font Size"
+msgstr ""
+
+#: admin-modules/partials/xgp-help-display.php:92
+msgid "Read Documentation"
+msgstr ""
+
+#: admin-modules/partials/xgp-help-display.php:90
+msgid "Read Documentation ?"
+msgstr ""
+
+#: inc/class-xgp-product-wishlist.php:223
+msgid "Remove From Wishlist Success"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:276
+msgid "Remove Notification Background  Color"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:283
+msgid "Remove Notification Color"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:524
+msgid "Ribbon/Badge Font Size"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:137
+msgid "rollIn"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:138
+msgid "rollOut"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:107
+msgid "rotateIn"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:108
+msgid "rotateInDownLeft"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:109
+msgid "rotateInDownRight"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:110
+msgid "rotateInUpLeft"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:111
+msgid "rotateInUpRight"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:112
+msgid "rotateOut"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:113
+msgid "rotateOutDownLeft"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:114
+msgid "rotateOutDownRight"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:115
+msgid "rotateOutUpLeft"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:116
+msgid "rotateOutUpRight"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:66
+msgid "rubberBand"
+msgstr ""
+
+#: admin-modules/partials/xgp-help-display.php:64
+#: admin-modules/partials/xgp-quick-view-display.php:92
+#: admin-modules/partials/xgp-quick-view-display.php:223
+#: admin-modules/partials/xgp-wishlist-display.php:69
+#: admin-modules/partials/xgp-wishlist-display.php:168
+#: admin-modules/partials/xgp-wishlist-display.php:291
+msgid "Save Changes"
+msgstr ""
+
+#: admin-modules/class-xgp-admin-modules.php:69
+msgid "Search Slider"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:173
+msgid "Select Category"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:175
+msgid "Select Category For Slider"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:369
+msgid "Select navigation background color"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:375
+msgid "Select navigation background hover color"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:381
+msgid "Select navigation color"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:387
+msgid "Select navigation hover color"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:260
+msgid "Select order by for slider"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:271
+msgid "Select order for slider"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:39
+msgid "Select Page To Show Wishlist"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:399
+msgid "Select pagination dots active color"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:393
+msgid "Select pagination dots color"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:208
+msgid "Select product type for slider"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:186
+msgid "Select slider theme"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:164
+msgid "Select slider type"
+msgstr ""
+
+#: admin-modules/partials/xgp-help-display.php:57
+msgid "Select Upsells Slider"
+msgstr ""
+
+#: admin-modules/partials/xgp-help-display.php:58
+msgid ""
+"Select Upsells slider shortcode for displaying upsells product slider in "
+"single page"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:34
+msgid "Select Wishlist Page"
+msgstr ""
+
+#: inc/wpbakery/class-xgp-wpbakery-addon.php:43
+msgid "Select Xg Product Slider Shortcode"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:221
+msgid "Set Number Of Column In Slider In Desktop"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:233
+msgid "Set Number Of Column In Slider In Mobile"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:227
+msgid "Set Number Of Column In Slider In Tablet"
+msgstr ""
+
+#: admin-modules/class-xgp-admin-modules.php:48
+msgid "Setting & Help"
+msgstr ""
+
+#: admin-modules/class-xgp-admin-modules.php:48
+msgid "Setting & help"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:67
+msgid "shake"
+msgstr ""
+
+#: inc/shortcode/class-xgp-shortcode.php:1698
+#: inc/shortcode/class-xgp-shortcode.php:1764
+msgid "Shop Now"
+msgstr ""
+
+#: admin-modules/class-xgp-admin-modules.php:187
+msgid "Shortcode"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:118
+msgid "slideInDown"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:119
+msgid "slideInLeft"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:120
+msgid "slideInRight"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:117
+msgid "slideInUp"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:122
+msgid "slideOutDown"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:123
+msgid "slideOutLeft"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:124
+msgid "slideOutRight"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:121
+msgid "slideOutUp"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:39
+#: admin-modules/class-xgp-metabox.php:144
+msgid "Slider Settings"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:35
+msgid "Slider Shortcode"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:184
+msgid "Slider Theme"
+msgstr ""
+
+#: admin-modules/class-xgp-admin-modules.php:186
+msgid "Slider Title"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:162
+msgid "Slider Type"
+msgstr ""
+
+#: admin-modules/class-xgp-admin-modules.php:62
+#: admin-modules/class-xgp-admin-modules.php:74
+msgid "Sliders"
+msgstr ""
+
+#: inc/shortcode/class-xgp-shortcode.php:38
+msgid "Stock Status"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:145
+#: admin-modules/partials/xgp-quick-view-display.php:20
+#: admin-modules/partials/xgp-wishlist-display.php:19
+msgid "Styling Settings"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:158
+msgid "Success / Removed Notification Font Size"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:262
+msgid "Success Notification  Color"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:269
+msgid "Success Notification Background  Color"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:68
+msgid "swing"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:88
+msgid "Table Header Font Size"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:184
+msgid "Table Header Title Color"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:69
+msgid "tada"
+msgstr ""
+
+#: admin-modules/partials/xgp-quick-view-display.php:210
+msgid "Tag Background Color"
+msgstr ""
+
+#: admin-modules/partials/xgp-quick-view-display.php:217
+msgid "Tag Border Color"
+msgstr ""
+
+#: admin-modules/partials/xgp-quick-view-display.php:203
+msgid "Tag Color"
+msgstr ""
+
+#: admin-modules/partials/xgp-quick-view-display.php:82
+msgid "Tag Font Size"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:188
+msgid "Theme 01"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:189
+msgid "Theme 02"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:190
+msgid "Theme 03"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:191
+msgid "Theme 04"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:192
+msgid "Theme 05"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:193
+msgid "Theme 06"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:194
+msgid "Theme 07"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:195
+msgid "Theme 08"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:196
+msgid "Theme 09"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:197
+msgid "Theme 10"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:198
+msgid "Theme 11"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:199
+msgid "Theme 12"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:200
+msgid "Theme 13"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:201
+msgid "Theme 14"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:202
+msgid "Theme 15"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:264
+msgid "Title"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:413
+#: admin-modules/partials/xgp-quick-view-display.php:101
+msgid "Title Color"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:530
+#: admin-modules/partials/xgp-quick-view-display.php:28
+msgid "Title Font Size"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:419
+msgid "Title Hover Color"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:214
+msgid "Top Rated"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:237
+msgid "Total Product"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:146
+#: admin-modules/partials/xgp-quick-view-display.php:19
+#: admin-modules/partials/xgp-wishlist-display.php:18
+msgid "Typography Settings"
+msgstr ""
+
+#: inc/shortcode/class-xgp-shortcode.php:37
+msgid "Unit Price"
+msgstr ""
+
+#: admin-modules/class-xgp-admin-modules.php:68
+msgid "Update Slider"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:213
+msgid "Upsells"
+msgstr ""
+
+#: admin-modules/partials/xgp-help-display.php:36
+msgid "Upsells Slider Settings"
+msgstr ""
+
+#: admin-modules/partials/xgp-help-display.php:104
+msgid "View Demo"
+msgstr ""
+
+#: admin-modules/class-xgp-admin-modules.php:64
+msgid "View Slider"
+msgstr ""
+
+#: admin-modules/partials/xgp-help-display.php:79
+msgid ""
+"We are always ready to support you and solved your problem as soon as "
+"possible."
+msgstr ""
+
+#: admin-modules/class-xgp-admin-modules.php:47
+msgid "Wishlist"
+msgstr ""
+
+#: admin-modules/class-xgp-admin-modules.php:47
+msgid "Wishlist Settings"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:12
+msgid "Wishlist Settings Updated Successfully."
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:70
+msgid "wobble"
+msgstr ""
+
+#: xg-product.php:149
+msgid "Woocommence"
+msgstr ""
+
+#: inc/wpbakery/class-xgp-wpbakery-addon.php:35
+msgid "Woocommerce product carousel collection by xgenious."
+msgstr ""
+
+#: inc/wpbakery/class-xgp-wpbakery-addon.php:33
+msgid "xg Product Carousel"
+msgstr ""
+
+#. Name of the plugin
+msgid "Xg Product Slider"
+msgstr ""
+
+#: admin-modules/partials/xgp-help-display.php:24
+#: admin-modules/partials/xgp-quick-view-display.php:7
+#: admin-modules/partials/xgp-wishlist-display.php:6
+msgid ""
+"Xg Product Slider is a collection of WooCommerce Product Slider with 15 "
+"unique style. it help you to create beautifully slider layout in  couple of "
+"minutes. In Slider you have Quick view options , Wishlist options and also "
+"compare options. It super easy to use."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Xg Product Slider is a collection of WooCommerce Product Slider with 15 "
+"unique style. it help you to create beautifully slider layout in couple of "
+"minutes. In Slider you have Quick view options , Wishlist options and also "
+"compare options. It super easy to use."
+msgstr ""
+
+#: admin-modules/partials/xgp-help-display.php:23
+#: admin-modules/partials/xgp-quick-view-display.php:6
+#: admin-modules/partials/xgp-wishlist-display.php:5
+msgid "XG WooCommerce Product Slider"
+msgstr ""
+
+#. Author of the plugin
+msgid "Xgenious"
+msgstr ""
+
+#: inc/wpbakery/class-xgp-wpbakery-addon.php:36
+msgid "Xp Product Slider"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:64
+msgid "You can change added in wishlist text from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:57
+msgid "You can change already in  wishlist text from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:50
+msgid "You can change browse wishlist text from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-quick-view-display.php:61
+msgid ""
+"You can change quick view modal product add to cart button font size from "
+"here"
+msgstr ""
+
+#: admin-modules/partials/xgp-quick-view-display.php:139
+msgid ""
+"You can change quick view modal product button background color from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-quick-view-display.php:132
+msgid "You can change quick view modal product button color from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-quick-view-display.php:154
+msgid ""
+"You can change quick view modal product button hover background color from "
+"here"
+msgstr ""
+
+#: admin-modules/partials/xgp-quick-view-display.php:146
+msgid "You can change quick view modal product button hover color from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-quick-view-display.php:176
+msgid ""
+"You can change quick view modal product close button background color from "
+"here"
+msgstr ""
+
+#: admin-modules/partials/xgp-quick-view-display.php:183
+msgid "You can change quick view modal product close button color from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-quick-view-display.php:190
+msgid ""
+"You can change quick view modal product close button hove background color "
+"from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-quick-view-display.php:197
+msgid ""
+"You can change quick view modal product close button hove color from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-quick-view-display.php:125
+msgid "You can change quick view modal product description color from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-quick-view-display.php:50
+msgid "You can change quick view modal product Description font size from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-quick-view-display.php:118
+msgid "You can change quick view modal product discount price color from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-quick-view-display.php:162
+msgid "You can change quick view modal product meta color from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-quick-view-display.php:72
+msgid "You can change quick view modal product meta font size from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-quick-view-display.php:169
+msgid "You can change quick view modal product meta hover color from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-quick-view-display.php:110
+msgid "You can change quick view modal product price color from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-quick-view-display.php:39
+msgid "You can change quick view modal product Price font size from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-quick-view-display.php:211
+msgid "You can change quick view modal product tag background color from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-quick-view-display.php:218
+msgid "You can change quick view modal product tag border color from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-quick-view-display.php:204
+msgid "You can change quick view modal product tag color from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-quick-view-display.php:83
+msgid "You can change quick view modal product tag font size from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-quick-view-display.php:102
+msgid "You can change quick view modal product title color from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-quick-view-display.php:29
+msgid "You can change quick view modal product title font size from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:256
+msgid "You can change wishlist add to cart  button  hover color from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:242
+msgid "You can change wishlist add to cart  button background color from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:249
+msgid ""
+"You can change wishlist add to cart  button background hover color from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:235
+msgid "You can change wishlist add to cart  button color from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:28
+msgid "You can change wishlist page default title from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:149
+msgid "You can change wishlist page product button font size from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:109
+msgid "You can change wishlist page product image width from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:159
+msgid "You can change wishlist page product notification font size from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:119
+msgid "You can change wishlist page product price font size from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:129
+#: admin-modules/partials/xgp-wishlist-display.php:139
+msgid "You can change wishlist page product stock font size from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:99
+msgid "You can change wishlist page product title font size from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:89
+msgid "You can change wishlist page table header font size from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:178
+msgid "You can change wishlist page title color from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:79
+msgid "You can change wishlist page title font size from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:227
+msgid "You can change wishlist product added date in wishlist color from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:213
+msgid "You can change wishlist product in stock color from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:220
+msgid "You can change wishlist product out of stock color from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:199
+msgid "You can change wishlist product price color from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:206
+msgid "You can change wishlist product price discount color from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:192
+msgid "You can change wishlist product title color from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:277
+msgid "You can change wishlist remove notification background color from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:284
+msgid "You can change wishlist remove notification color from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:270
+msgid "You can change wishlist success notification background color from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:263
+msgid "You can change wishlist success notification color from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:185
+msgid "You can change wishlist table header title color from here"
+msgstr ""
+
+#: admin-modules/partials/xgp-quick-view-display.php:11
+msgid "You can easily change all quick view setting according to your needs."
+msgstr ""
+
+#: admin-modules/partials/xgp-help-display.php:28
+msgid "You can easily change all upsells  setting according to your needs."
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:10
+msgid "You can easily change all wishlist  setting according to your needs."
+msgstr ""
+
+#: xg-product.php:147
+msgid "You can install it form here or your plugin menu."
+msgstr ""
+
+#: admin-modules/partials/xgp-wishlist-display.php:35
+msgid ""
+"You can select wishlist page from here. for page content use this shortcode "
+"[xgp-wishlist-content]"
+msgstr ""
+
+#: templates/wishlist-view.php:53 inc/shortcode/class-xgp-shortcode.php:46
+#: inc/shortcode/class-xgp-shortcode.php:101
+#: inc/shortcode/class-xgp-shortcode.php:159
+msgid "You Have No Wishlist At The Moment ."
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:125
+msgid "zoomIn"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:126
+msgid "zoomInDown"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:127
+msgid "zoomInLeft"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:128
+msgid "zoomInRight"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:129
+msgid "zoomInUp"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:130
+msgid "zoomOut"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:131
+msgid "zoomOutDown"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:132
+msgid "zoomOutLeft"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:133
+msgid "zoomOutRight"
+msgstr ""
+
+#: admin-modules/class-xgp-metabox.php:134
+msgid "zoomOutUp"
+msgstr ""

@@ -1,0 +1,28 @@
+/*
+    xgp product metabox stylesheet
+*/
+.xgp_shotcode_wrapper{
+    width: 270px;
+    padding: 6px;
+}
+.xgp-shortcode-element-field {
+    position:  relative;
+    height: 35px;
+}
+
+.xgp-shortcode-element-field .icon {
+    width:  60px;
+    background-color: #ddd;
+    position:absolute;
+    right:0;
+    top:0;
+    height:35px;
+    line-height: 35px;
+    text-align: center;
+    cursor: pointer;
+
+}
+
+.xgp-shortcode-element-field {
+    display: inline-block;
+}

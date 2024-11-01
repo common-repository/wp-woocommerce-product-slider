@@ -1,0 +1,254 @@
+.form-element.has-text .xgp-input-field{
+   width: 100%;
+    height: 50px;
+    padding: 0 30px;
+}
+.form-element.has-text .text{
+    position: absolute;
+    right: 0;
+    top: 0;
+    font-size: 12px;
+    font-weight: 700;
+    text-align: center;
+    background-color: #F5F5F5;
+    cursor: pointer;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.form-element.has-text{
+    display: block;
+    position: relative;
+}
+.form-element.has-text:focus,
+.form-element.has-text .xgp-input-field:focus{
+    outline: none;
+    box-shadow: none;
+}
+/**
+    default margin class
+ */
+.margin-left-0{
+    margin-left: 0 !important;
+}
+.margin-top-20{
+    margin-top: 20px !important;
+}
+.margin-top-50 {
+    margin-top: 50px;
+}
+.margin-bottom-40 {
+    margin-bottom: 40px;
+}
+.margin-bottom-30 {
+    margin-bottom: 30px;
+}
+.margin-bottom-20 {
+    margin-bottom: 20px;
+}
+.margin-bottom-10 {
+    margin-bottom: 10px;
+}
+
+.xgp-tab-nav.ui-tabs-nav {
+    margin: 0;
+    padding: 0;
+    margin-top: 30px;
+}
+#xgp_product_settings_metabox .handlediv,div#xgp_product_settings_metabox .hndle.ui-sortable-handle {
+    display:  none;
+}
+.xgp-tab-nav.ui-tabs-nav li {
+    display: inline-block;
+}
+.xgp-tab-container {
+    padding-top: 30px;
+}
+.xgp-tab-nav.ui-tabs-nav li a {
+    color: #fff;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 600;
+    text-decoration: none;
+    padding: 15px 25px;
+    background-color: #A46497;
+}
+
+.xgp-tab-nav.ui-tabs-nav li a:focus {
+    outline: none;
+    border: none;
+    box-shadow: none;
+}
+
+.xgp-tab-nav.ui-tabs-nav li.ui-tabs-active a {
+    background-color: #18a530;
+}
+.xgp-form-element .xgp-input-field {
+    height: 50px;
+    width: 30%;
+    border-radius: 3px;
+    padding: 5px 25px;
+    font-size: 16px;
+    margin-left: 10%;
+}
+.xgp-form-element.has-icon .xgp-input-field{
+    padding-right: 60px;
+}
+.has-icon{
+    position: relative;
+    display: block;
+    width: 200px;
+}
+.the-icon{
+    position: absolute;
+    right: -1px;
+    top: 1px;
+    width: 50px;
+    height: 50px;
+    background-color: #F2F2F2;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.the-icon .ictext{
+    font-size: 16px;
+    line-height: 50px;
+    text-align: center;
+    color: #515151;
+    display: block;
+}
+.xgp-submit-btn:focus{
+    outline: none;
+    box-shadow: none;
+}
+.xgp-submit-btn {
+    display:  block;
+    width:  180px;
+    height:  50px;
+    font-weight:  600;
+    text-transform:  capitalize;
+    font-size:  18px;
+    background-color: #18a530;
+    border:  none;
+    border-radius:  3px;
+    color: #fff;
+    cursor: pointer;
+}
+.xgp-form-element{
+    margin-bottom: 20px;
+}
+.xgp-form-element .label .help-text{
+    font-size: 14px;
+    color: #777;
+    display: block;
+}
+.xgp-form-element .label{
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 10px;
+    display: inline-block;
+    width: 30%;
+}
+.width-200{
+    width: 200px !important;
+}
+.form-element-label .label {
+    font-size:  18px;
+    font-weight:  600;
+    margin-bottom:  5px;
+    display: block;
+}
+
+.form-element-label .help-text {
+    font-size:  12px;
+    display:  block;
+    margin-bottom: 15px;
+}
+.xgp-form-element .select-field{
+    width: 100%;
+    height: 50px;
+    padding: 0 20px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+.xgp-form-element .select-field:focus{
+    outline: none;
+    box-shadow: none;
+}
+.width-200{
+    width: 300px;
+}
+.xgp-form-element .wp-picker-container {
+    display:  inline-block;
+    margin-left: 10%;
+}
+
+
+.xgp-form-element .wp-picker-container input[type=text].wp-color-picker{
+    width:100px;
+    height:30px;
+}
+/* select 2 plugins override */
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    color: #444;
+    line-height: 50px;
+}
+.select2-container .select2-selection--single {
+    box-sizing: border-box;
+    cursor: pointer;
+    display: block;
+    height: 50px;
+    user-select: none;
+    -webkit-user-select: none;
+    line-height: 50px;
+    padding: 0 14px;
+    font-size: 16px;
+    width: 99%;
+    border: 1px solid rgba(0,0,0,.07)!important;
+}
+.select2-container--open .select2-dropdown {
+    left: -138px;
+}
+.select2-container {
+    box-sizing: border-box;
+    display: inline-block;
+    margin: 0;
+    position: relative;
+    vertical-align: middle;
+    margin-left: 138px;
+}
+.select2-container:focus{
+    outline: none;
+}
+.xgp_display_none{
+    display: none;
+}
+.xgp-display-block{
+    display: block;
+}
+
+.styling.xgp-overlay .pro-area{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255,255,255,.6);
+
+}
+.styling.xgp-overlay{
+    position: relative;
+}
+.styling.xgp-overlay .pro-area .pro-inner .pro-btn {
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 700;
+    text-decoration: none;
+    background-color: #f00;
+    padding: 15px 30px;
+    color: #fff;
+    border-radius: 5px;
+    transition: .3s ease-in;
+}
+.styling.xgp-overlay .pro-area .pro-inner .pro-btn:hover{
+    background-color:#18A530;
+}

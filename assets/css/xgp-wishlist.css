@@ -1,0 +1,27 @@
+/*
+    xgp wishlist css
+*/
+.xgp-wishlist-notice {
+    position:  absolute;
+    left:  0;
+    top: 56px;
+    z-index: 9999;
+    background-color: #e8e4e4;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color:  #333;
+    text-transform: capitalize;
+    font-size: 14px;
+    margin-left: -200px;
+}
+.xgp-wishlist-notice.error {
+    background-color: #b95050;
+    color: #fff;
+}
+.xgp-wishlist-link{
+    font-weight: 600;
+    color: #2497cb;
+}
+.xghp-wishlist-table tbody tr td {
+    padding: 40px;
+}
